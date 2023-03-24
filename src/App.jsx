@@ -64,7 +64,6 @@ function App() {
 
   return (
     <div className="App">
-      <h3>desafio fernandev</h3>
       <h1>progresso do formulário</h1>
 
       <main>
